@@ -50,7 +50,7 @@ Foreign key relationships were implemented to maintain data integrity between Cu
 - Electronics and Furniture categories showed strong performance  
 - High-value orders had major impact on total revenue  
 - Repeat customers contributed more to overall business growth  
-## 📁 Project Structure## 
+## 📁 Project Structure
 🚀 How to Run This Project
 1. Create the Customers, Orders, and Products tables  
 2. Insert the sample data provided  
