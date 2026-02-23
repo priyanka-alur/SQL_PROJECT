@@ -1,4 +1,4 @@
-# SQL_PROJECT
+# SQL_PROJECT_1
 E-Commerce_Sales_Analysis
 📊 E-Commerce Sales Analysis Using SQL
 
