@@ -200,9 +200,6 @@ inner join customers c
 on c.customer_id = o.customer_id
 order by total_amount ASC
 
--- 19.Find customers who have never placed orders (if any).
-select * from Orders
-
 -- 20.Show category-wise product count.
 
 select category, count(*) as product_count
